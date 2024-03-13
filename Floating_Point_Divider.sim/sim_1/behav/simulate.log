@@ -1,0 +1,4 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+Note: Test case 4 passed: Correct result (Division by zero)
+Time: 485 ns  Iteration: 3  Process: /FPU_Division_Sim/Examples_Process  File: D:/Anul III - Semestrul I/SSC/PROIECT/FPU_DIVIDER/Impartire_in_virgula_mobila/Impartire_in_virgula_mobila.srcs/sim_1/new/FPU_Division_Sim.vhd

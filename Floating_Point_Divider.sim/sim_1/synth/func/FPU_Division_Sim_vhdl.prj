@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "FPU_Division_Sim_func_synth.vhd"
+vhdl xil_defaultlib  "../../../../Impartire_in_virgula_mobila.srcs/sources_1/new/FPU_Division.vhd"
+vhdl xil_defaultlib  "../../../../Impartire_in_virgula_mobila.srcs/sim_1/new/FPU_Division_Sim.vhd"
+vhdl xil_defaultlib  "../../../../Impartire_in_virgula_mobila.srcs/sim_1/new/Exceptions_Sim.vhd"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,1 @@
+-wto "810c97494dd84240be2af6dcf947e48d" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "FPU_Division_Sim_behav" "xil_defaultlib.FPU_Division_Sim" -log "elaborate.log" 
